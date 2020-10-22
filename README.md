@@ -22,7 +22,14 @@ node --version
 
 
 Open CMD and Type the Following Commands:
+
 npm install -g create-react-native-app
+
 cd <project_name>
+
 **To run the project**
+
 npm start
+
+To Check And Verify:
+https://medium.com/better-programming/react-native-how-to-build-a-home-screen-widget-for-ios-and-android-8b2d7db343cb
